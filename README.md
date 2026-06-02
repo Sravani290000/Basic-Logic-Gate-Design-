@@ -3,7 +3,7 @@
 This project implements basic logic gates using Verilog HDL.
 
 ## Internship Details
-- Internship ID: CITS714
+- Internship ID: CITS756
 
 ## Tools Used
 - Verilog HDL
